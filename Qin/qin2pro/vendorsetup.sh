@@ -1,1 +1,1 @@
-add_lunch_combo omni_qin2pro-eng
+add_lunch_combo omni_Qin2Pro-eng
