@@ -1,1 +1,1 @@
-PRODUCT_MAKEFILES := $(LOCAL_DIR)/omni_qin2pro.mk
+PRODUCT_MAKEFILES := $(LOCAL_DIR)/Qin2Pro.mk
