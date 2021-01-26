@@ -15,7 +15,7 @@
 #
 
 # Release name
-PRODUCT_RELEASE_NAME := qin2pro
+PRODUCT_RELEASE_NAME := Qin2Pro
 
 # Inherit from this configs
 $(call inherit-product, build/target/product/embedded.mk)
@@ -38,10 +38,10 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/treble_common_64.mk)
 
 #PRODUCT_PROPERTY_OVERRIDES := ro.treble.enabled=true
 
-PRODUCT_DEVICE := qin2pro
-PRODUCT_NAME := omni_qin2pro
+PRODUCT_DEVICE := Qin2Pro
+PRODUCT_NAME := omni_Qin2Pro
 PRODUCT_BRAND := Qin
-PRODUCT_MODEL := qin2pro
+PRODUCT_MODEL := Qin2Pro
 PRODUCT_MANUFACTURER := Qin
 
 PRODUCT_SYSTEM_PROPERTY_BLACKLIST += \
