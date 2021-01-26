@@ -3,7 +3,7 @@
 # Team Hovatek Touch Fix
 load_panel()
 {
-	insmod /sbin/sprd_vibrator.ko
+	insmod /sbin/tcs3430.ko
 }
 
 
